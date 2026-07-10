@@ -39,7 +39,7 @@ RailNova addresses these challenges by providing a centralized smart navigation 
 - Delay status monitoring
 - Coach-wise guidance
 
-### 👥 Crowd Monitoring
+### 👥 Crowd Monitoring.
 - Platform crowd indicators
 - Low, Medium, High crowd levels
 - Crowd visualization dashboard
